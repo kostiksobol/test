@@ -1,3 +1,4 @@
 fn main(){
-    writeln!("fgihdfoiggdscddfgbd");
+    writeln!("fgihdfoiggdscddgffgbd");
+    writeln!();
 }
